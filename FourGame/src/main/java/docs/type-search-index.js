@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.fourgame","l":"Board"},{"p":"com.mycompany.fourgame","l":"FourGame"}];updateSearchResults();
